@@ -1,7 +1,6 @@
 {
   "icat": [
     {
-      "id": "success"
       "success": true,
       "status": 200,
       "message": ""
