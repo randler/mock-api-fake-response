@@ -1,66 +1,10 @@
 {
-  "protheus": [
-    "success": {
+  "iCat": [
+    {
+      "id": "success"
       "success": true,
       "status": 200,
       "message": ""
-    },
-    "fail": {
-      "success": false,
-      "status": 404,
-      "message": "Error not found!"
-    },
-    "unauthorized": { 
-      "success": false,
-      "status": 401,
-      "message": "Unauthorized"
-    },
-    "forbidden": {
-      "success": false,
-      "status": 403,
-      "message": "Forbidden"
-    },
-    "badRequest": {
-      "success": false,
-      "status": 400,
-      "message": "Bad Request"
-    },
-    "internalServerError": {
-      "success": false,
-      "status": 500,
-      "message": "Internal Server Error"
     }
-  ],
-  "iCat": {
-    "success": {
-      "success": true,
-      "status": 200,
-      "message": ""
-    },
-    "fail": {
-      "success": false,
-      "status": 404,
-      "message": "Error not found!"
-    },
-    "unauthorized": {
-      "success": false,
-      "status": 401,
-      "message": "Unauthorized"
-    },
-    "forbidden": {
-      "success": false,
-      "status": 403,
-      "message": "Forbidden"
-    },
-    "badRequest": {
-      "success": false,
-      "status": 400,
-      "message": "Bad Request"
-    },
-    "internalServerError": {
-      "success": false,
-      "status": 500,
-      "message": "Internal Server Error"
-    }
-  }
+  ]
 }
