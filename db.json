@@ -5,6 +5,74 @@
       "success": true,
       "status": 200,
       "message": ""
+    },
+    {
+      "id": "error",
+      "success": false,
+      "status": 500,
+      "message": "Internal Server Error"
+    },
+    {
+      "id": "not_found",
+      "success": false,
+      "status": 404,
+      "message": "Not Found"
+    },
+    {
+      "id": "unauthorized",
+      "success": false,
+      "status": 401,
+      "message": "Unauthorized"
+    },
+    {
+      "id": "forbidden",
+      "success": false,
+      "status": 403,
+      "message": "Forbidden"
+    },
+    {
+      "id": "bad_request",
+      "success": false,
+      "status": 400,
+      "message": "Bad Request"
+    }
+  ],
+  "protheus": [
+    {
+      "id": "success",
+      "success": true,
+      "status": 200,
+      "message": ""
+    },
+    {
+      "id": "error",
+      "success": false,
+      "status": 500,
+      "message": "Internal Server Error"
+    },
+    {
+      "id": "not_found",
+      "success": false,
+      "status": 404,
+      "message": "Not Found"
+    },
+    {
+      "id": "unauthorized",
+      "success": false,
+      "status": 401,
+      "message": "Unauthorized"
+    },
+    {
+      "id": "forbidden",
+      "success": false,
+      "status": 403,
+      "message": "Forbidden"
+    },
+    {
+      "id": "bad_request",
+      "success": false,
+      "status": 400,
+      "message": "Bad Request"
     }
   ]
 }
